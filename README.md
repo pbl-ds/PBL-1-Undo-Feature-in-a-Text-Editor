@@ -2,12 +2,25 @@
 Design an array-based stack that stores user actions (like typed characters or commands). Implement push to record an action and pop to undo it.
 
 **Student Name:** Rafia Sahar
+
+
 **University:** University of Southern Punjab (USP), Multan
+
+
 **Subject:** DSA
+
+
 **Class:** BSCS-P
+
+
 **Semester:** 3rd
+
+
 **Roll no:** 63
+
+
 **Instructor:** Mam Hadia Rehan
+
 
 ## Project Description
 This project demonstrates an *Undo Feature* using an *array-based stack* in C++.  
