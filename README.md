@@ -133,15 +133,25 @@ int main() {
 
 
 ## Code Explanation
-*Stores user actions (words/commands) in a stack.
-*Push() records a new action.
-*Pop() undoes the last action.
-*Display() shows all actions from latest to first.
+1-Stores user actions (words/commands) in a stack.
+
+
+2-Push() records a new action.
+
+
+3-Pop() undoes the last action.
+
+
+4-Display() shows all actions from latest to first.
 
 Menu allows: Perform Action → Undo → View History → Exit.
 Demonstrates stack operations and the undo feature efficiently.
 
 ## Stack & Operations 
-*Stack: A data structure that stores items in Last In, First Out (LIFO) order.
-*Push: Adds an item to the top of the stack.
-*Pop: Removes the most recent item from the stack.
+-Stack: A data structure that stores items in Last In, First Out (LIFO) order.
+
+
+-Push: Adds an item to the top of the stack.
+
+
+-Pop: Removes the most recent item from the stack.
